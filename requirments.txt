@@ -3,3 +3,7 @@ streamlit-webrtc
 ultralytics
 opencv-python-headless
 av
+torch
+torchvision
+numpy
+pillow
