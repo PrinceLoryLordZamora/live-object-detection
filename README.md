@@ -1,4 +1,4 @@
-# Live Object Detectiion & Tracing
+# Live Object Detection & Tracing
 
 This is a simple real-time object detection web application that uses a webcam and AI model to detect objects in live video.
 
