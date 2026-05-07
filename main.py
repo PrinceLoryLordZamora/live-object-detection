@@ -6,7 +6,7 @@ import av
 import cv2
 
 # ---------- PAGE ----------
-st.set_page_config(page_title="Live Object Detectiion & Tracing", layout="wide")
+st.set_page_config(page_title="Live Object Detection & Tracing", layout="wide")
 
 # ---------- CYBER UI STYLE ----------
 st.markdown("""
@@ -41,7 +41,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------- HEADER ----------
-st.markdown('<div class="title">⚡ Live Object Detectiion & Tracing</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">⚡ Live Object Detection & Tracing</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Real-time Object Detection System</div>', unsafe_allow_html=True)
 
 # ---------- LAYOUT ----------
