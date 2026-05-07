@@ -35,7 +35,7 @@ The system runs on a web interface using Streamlit, making it easy to use withou
 Live Demo
 
 - Streamlit App: https://live-object-detection-awjh7hvmgk4kzvv9moi9rh.streamlit.app/
-- GitHub Repository: https://github.com/your-username/your-repo
+- GitHub Repository: https://github.com/PrinceLoryLordZamora/live-object-detection
 - Documentation Report (Google Docs): https://docs.google.com/document/d/1H7836k9Pw45-757DdrLt3rTwHVVOHTnS/edit?usp=sharing&ouid=111899427387002432381&rtpof=true&sd=true
 ## Setup Instructions
 
